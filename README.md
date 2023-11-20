@@ -1,6 +1,6 @@
 # JabDB
 
-JabDB is a JavaScript npm package for interacting with a database using a JavaScript client.
+JabDB is a JavaScript npm package for interacting with a JabDB using a JavaScript client.
 
 ## Installation
 
