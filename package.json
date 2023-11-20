@@ -1,0 +1,21 @@
+{
+  "name": "jabulane-db",
+  "version": "1.0.2",
+  "description": "JabDB: A JavaScript package for simplified encrypted database management, designed for seamless integration with JavaScript clients.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "encryption",
+    "javascript",
+    "npm-package",
+    "jabdb"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^3.0.1"
+  }
+}
